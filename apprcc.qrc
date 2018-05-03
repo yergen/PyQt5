@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>chapter03/images/cartoon1.ico</file>
+    <file>chapter03/images/cartoon2.ico</file>
+    <file>chapter03/images/cartoon3.ico</file>
+    <file>chapter03/images/cartoon4.ico</file>
+    <file>chapter03/images/python.jpg</file>
+  </qresource>
+</RCC>
